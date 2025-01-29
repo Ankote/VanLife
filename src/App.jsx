@@ -7,6 +7,7 @@ import Home from './Components/pages/Home'
 import About from './Components/pages/About'
 import Header from './Components/Header'
 import Vans from './Components/pages/Vans'
+import "./server"
 
 function App() {
 

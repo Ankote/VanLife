@@ -13,6 +13,11 @@ header{
     
   }
   
+header  a:hover {
+    color: #161616;
+    text-decoration: underline;
+}
+
 header > .page-logo > img{
     width: 144px;
     height: 41px;
