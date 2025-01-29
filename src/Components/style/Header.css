@@ -1,0 +1,27 @@
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #FFF7ED;
+    box-sizing: border-box;
+    align-items: center;
+    width: 100vw;
+    height: 111.62px;
+    padding-inline: 36px;
+    
+    
+  }
+  
+header > .page-logo > img{
+    width: 144px;
+    height: 41px;
+}
+
+header > nav  > a{
+    color:  #4D4D4D;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+    margin-inline: 20px;
+}
